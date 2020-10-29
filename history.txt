@@ -1,0 +1,1001 @@
+ 1062  node person.js 
+ 1063  cd ..
+ 1064  cd spec
+ 1065  jasmine oop_spec.js 
+ 1066  clear
+ 1067  jasmine oop_spec.js 
+ 1068  clear
+ 1069  jasmine oop_spec.js 
+ 1070  clear
+ 1071  jasmine oop_spec.js 
+ 1072  clear
+ 1073  cd ..
+ 1074  cd src
+ 1075  node person.js 
+ 1076  clear
+ 1077  node person.js 
+ 1078  clear
+ 1079  node person.js 
+ 1080  clear
+ 1081  node person.js 
+ 1082  git checkout -bcal
+ 1083  mkdir src
+ 1084  mkdir source
+ 1085  ls
+ 1086  git branch
+ 1087  git init
+ 1088  git add src
+ 1089  fit status
+ 1090  git status
+ 1091  git add src
+ 1092  git commit -m ''add'
+ 1093  git commit -m 'add'
+ 1094  ~ls
+ 1095  ls
+ 1096  git branch
+ 1097  git status
+ 1098  git staus
+ 1099  git status
+ 1100  git add src
+ 1101  git commit -m 'added src file'
+ 1102  git push cal
+ 1103  git push
+ 1104  jasmine init
+ 1105  git status
+ 1106  git add spec
+ 1107  git commit -m 'added spec file'
+ 1108  git status
+ 1109  git commit -m 'deleted'
+ 1110  git status
+ 1111  git add .
+ 1112  git commit -m 'test'
+ 1113  git push
+ 1114  jasmine init
+ 1115  git status
+ 1116  git add .
+ 1117  git commit -m 'added all files'
+ 1118  git push
+ 1119  cd src
+ 1120  node string_calculator.js 
+ 1121  clear
+ 1122  jasmine init
+ 1123  npm init
+ 1124  git status
+ 1125  git add .
+ 1126  git status
+ 1127  git commit -m "fixed spec"
+ 1128  git push
+ 1129  cd Thembela-Selani-200-sql/
+ 1130  docker-compose up
+ 1131  node
+ 1132  cd giiiit
+ 1133  cd giiiiiiit
+ 1134  git add .
+ 1135  git status
+ 1136  git add .
+ 1137  git status
+ 1138  git add *
+ 1139  git status
+ 1140  git add git-basic-exercises
+ 1141  git status
+ 1142  "git add <git-basic-exercises>..." 
+ 1143  "git add <git-basic-exercises>" 
+ 1144  "git add git-basic-exercises" 
+ 1145  add git-basic-exercises" 
+ 1146  git push
+ 1147  clear
+ 1148  mkdir git-basic-exercises
+ 1149  cd git-basic-exercises/
+ 1150  la -a
+ 1151  ls
+ 1152  git init
+ 1153  ls -a
+ 1154  git status
+ 1155  touch README.md
+ 1156  ls -a
+ 1157  git status
+ 1158  git log
+ 1159  git add README.md
+ 1160  ls -a
+ 1161  git status
+ 1162  git commit -m "initial commit"
+ 1163  git log
+ 1164  q
+ 1165  nano README.md
+ 1166  cat README.md
+ 1167  git stats
+ 1168  git status
+ 1169  git commit -m "second commit"
+ 1170  git add *
+ 1171  git commit -m "second commit"
+ 1172  git log
+ 1173  q
+ 1174  git checkout f75bc497d89673865f53d09d5fcdeaae1c1b19f2
+ 1175  cat README.md
+ 1176  git checkout master
+ 1177  cat README.md
+ 1178  git branch
+ 1179  git checkout milkshake-flavours
+ 1180  git checkout -b milkshake-flavours
+ 1181  git branch
+ 1182  nano milkshakes.md
+ 1183  git status
+ 1184  git add *
+ 1185  git status
+ 1186  git log
+ 1187  git commit -m "added initial flavours"
+ 1188  git log
+ 1189  git checkout -b master
+ 1190  git checkout master
+ 1191  git checkout -b history
+ 1192  git checkout
+ 1193  git log
+ 1194  git branch
+ 1195  history > history.txt
+ 1196  git commit "added history"
+ 1197  git commit -m "added history"
+ 1198  git log
+ 1199  git commit -m "added history"
+ 1200  git add *
+ 1201  git log
+ 1202  cd README.md
+ 1203  git checkout history
+ 1204  cat README.md
+ 1205  git branch
+ 1206  rm README.md
+ 1207  echo "booya" > README.md
+ 1208  git commit -m "rewrote readme"
+ 1209  git checkout
+ 1210  git checkout master
+ 1211  ls
+ 1212  git log
+ 1213  git checkout milkshake-flavours
+ 1214  ls
+ 1215  git log
+ 1216  git checkout history
+ 1217  ls
+ 1218  git log
+ 1219  git checkout master
+ 1220  git merge milkshake-flavours
+ 1221  ls
+ 1222  git log
+ 1223  git merge
+ 1224  git merge milkshake-flavours
+ 1225  ls
+ 1226  git log
+ 1227  git merge history
+ 1228  ls
+ 1229  git log
+ 1230  node challenge
+ 1231  clear
+ 1232  node challenge5
+ 1233  clear
+ 1234  node challenge5
+ 1235  claer
+ 1236  clear
+ 1237  node challenge5
+ 1238  clear
+ 1239  node challenge5
+ 1240  clear
+ 1241  node challenge5
+ 1242  clear
+ 1243  node challenge5
+ 1244  cd src
+ 1245  node
+ 1246  cd spec
+ 1247  jasmine test.js 
+ 1248  clear
+ 1249  jasmine test.js 
+ 1250  clear
+ 1251  git add .
+ 1252  git commit -m "fixed spec"
+ 1253  git push
+ 1254  git add .
+ 1255  git status
+ 1256  git add --ignore-errors .
+ 1257  git commit -m "fixed file naming"
+ 1258  git push
+ 1259  git staus
+ 1260  git status
+ 1261  git add .
+ 1262  git status
+ 1263  git commit -m "inserted comments"
+ 1264  git push
+ 1265  git status
+ 1266  git add .
+ 1267  git push
+ 1268  git status
+ 1269  git commit -m "fixed tables"
+ 1270  git push
+ 1271  git status
+ 1272  git add .
+ 1273  git commit -m "fixed tables"
+ 1274  git push
+ 1275  git status
+ 1276  git add .
+ 1277  git commit -m "fixed tables"
+ 1278  git push
+ 1279  cd src
+ 1280  node node_file_src.js 
+ 1281  cd ..
+ 1282  cd spec
+ 1283  jasmine test.js 
+ 1284  clear
+ 1285  cd ..
+ 1286  git status
+ 1287  git branch
+ 1288  git add .
+ 1289  git status
+ 1290  git commit -m "fixed src"
+ 1291  git push
+ 1292  cd src
+ 1293  node github_APIs.js 
+ 1294  git init
+ 1295  git add .
+ 1296  git commit -m "second commit"
+ 1297  git push
+ 1298  git staus
+ 1299  git status
+ 1300  git branch
+ 1301  git add *
+ 1302  git status
+ 1303  git add git-basic-exercises
+ 1304  git status
+ 1305  git add git-basic-exercises
+ 1306  git status
+ 1307  git commit -a
+ 1308  "git commit -a"
+ 1309  git add .
+ 1310  git commit -m "fixed tables"
+ 1311  git push
+ 1312  cd src
+ 1313  node node_file_io.js 
+ 1314  cd src
+ 1315  node node_file_src.js 
+ 1316  cd src
+ 1317  node challenge5
+ 1318  git add .
+ 1319  git commit -m "changed challenge5"
+ 1320  git push
+ 1321  cd Desktop/
+ 1322  ls
+ 1323  cd src
+ 1324  node memoryGame.js 
+ 1325  clear
+ 1326  node memoryGame.js 
+ 1327  clear
+ 1328  node memoryGame.js 
+ 1329  clear
+ 1330  node memoryGame.js 
+ 1331  clear
+ 1332  node memoryGame.js 
+ 1333  clear
+ 1334  node memoryGame.js 
+ 1335  cd ..
+ 1336  git add .
+ 1337  git commit -m "minor changes"
+ 1338  git push
+ 1339  git branch
+ 1340  git status
+ 1341  git push -u origin Thembela-Selani-222-memory-game-in-vanilla-js 
+ 1342  docker-compose up
+ 1343  git status
+ 1344  git add .
+ 1345  git commit -m "fixed queries"
+ 1346  git push
+ 1347  git clone https://github.com/Umuzi-org/Thembela-Selani-282-node-sql-assignment.git
+ 1348  docker-compose up
+ 1349  node challenge4
+ 1350  clear
+ 1351  git add .
+ 1352  git commit -m "updated challenge 4"
+ 1353  git push
+ 1354  git status
+ 1355  docker-compose up
+ 1356  docker-compose up
+ 1357  docker-compose up
+ 1358  docker kill
+ 1359  docker-compose up
+ 1360  cd spec
+ 1361  jasmine tests.js 
+ 1362  clear
+ 1363  docker-compose up
+ 1364  docker kill
+ 1365  docker ps
+ 1366  docker kill 80bbde968bd3 
+ 1367  git staus
+ 1368  git status
+ 1369  git add .
+ 1370  git status
+ 1371  git commit -m "fixed the files"
+ 1372  git push
+ 1373  cd spec
+ 1374  jasmine tests.js 
+ 1375  cd spec
+ 1376  jasmine tests.js 
+ 1377  clear
+ 1378  jasmine tests.js 
+ 1379  clear
+ 1380  jasmine tests.js 
+ 1381  cd spec
+ 1382  jasmine tests.js 
+ 1383  clear
+ 1384  cd .
+ 1385  cd src
+ 1386  cd ..
+ 1387  cd src
+ 1388  clear
+ 1389  node app.js 
+ 1390  cd src
+ 1391  node app.js 
+ 1392  clear
+ 1393  cd ..
+ 1394  clear
+ 1395  npm i dotenv
+ 1396  sudo apt install i dotenv
+ 1397  cd src
+ 1398  node app.js 
+ 1399  cd ..
+ 1400  sudo apt install i dotenv
+ 1401  clear
+ 1402  cd src
+ 1403  node app.js 
+ 1404  docker-compose up
+ 1405  docker ps
+ 1406  docker stop 654b1e17dcd7
+ 1407  docker-compose up
+ 1408  clear
+ 1409  sudo docker ps
+ 1410  sudo docker stop 654b1e17dcd7 
+ 1411  sudo docker stop 9b2996de0ffa
+ 1412  sudo docker-compose up
+ 1413  clear
+ 1414  docker container ls
+ 1415  docker stop 654b1e17dcd7 
+ 1416  docker stop bc551167fd02
+ 1417  docker stop 80bbde968bd3 
+ 1418  docker-compose up
+ 1419  git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git
+ 1420  docker-compose up
+ 1421  docker container ls
+ 1422  docker kill 10d4423d6803        
+ 1423  docker kill 654b1e17dcd7
+ 1424  docker kill 80bbde968bd3
+ 1425  docker kill ebe477e2abfa 
+ 1426  clear
+ 1427  docker-compose up
+ 1428  docker container ls
+ 1429  docker kill 80bbde968bd3 
+ 1430  docker kill 3529940b5c9d
+ 1431  docker kill e04df24a22d7
+ 1432  clear
+ 1433  docker-compose up
+ 1434  git status
+ 1435  git add .
+ 1436  git commit -m "fixed table"
+ 1437  git push
+ 1438  cd src
+ 1439  node app.js 
+ 1440  clear
+ 1441  cd ..
+ 1442  cd spec
+ 1443  jasmine tests.js 
+ 1444  clear
+ 1445  cd ..
+ 1446  clear
+ 1447  cd src
+ 1448  node app
+ 1449  clear
+ 1450  node app.js 
+ 1451  cd ..
+ 1452  clear
+ 1453  npm install dotenv --save
+ 1454  cd src
+ 1455  node app.js 
+ 1456  cd src
+ 1457  node 
+ 1458  docker-compose up
+ 1459  docker container ls
+ 1460  docker container kill
+ 1461  docker container kill bc551167fd02 
+ 1462  docker-compose up
+ 1463  cd Desktop/
+ 1464  ls
+ 1465  cd node-and-sql/
+ 1466  ls
+ 1467  cd Thembela-Selani-282-node-sql-assignment/
+ 1468  sudo docker-compose ps
+ 1469  docker container ls
+ 1470  sudo docker stop e04df24a22d7
+ 1471  sudo docker stop 80bbde968bd3
+ 1472  sudo docker stop 654b1e17dcd7
+ 1473  docker container ls
+ 1474  sudo docker-compose up
+ 1475  cd src
+ 1476  node app.js 
+ 1477  cd src
+ 1478  node app.js 
+ 1479  cd src
+ 1480  node app.js 
+ 1481  touch code
+ 1482  clear
+ 1483  cd Desktop/
+ 1484  mkdir src
+ 1485  mkdir code
+ 1486  mkdir white
+ 1487  cd white/
+ 1488  touch code.js
+ 1489  clear
+ 1490  node code.js 
+ 1491  clear
+ 1492  node app.js 
+ 1493  cd src
+ 1494  node app.js 
+ 1495  cd src
+ 1496  node app.js 
+ 1497  cd src
+ 1498  node app.js 
+ 1499  clear
+ 1500  node app.js 
+ 1501  docker-compose up
+ 1502  docker container ls
+ 1503  docker stop 654b1e17dcd7
+ 1504  docker stop e306537cdf07
+ 1505  docker-compose up
+ 1506  cd src
+ 1507  cd ..
+ 1508  cd spec
+ 1509  clear
+ 1510  jasmine tests.js 
+ 1511  lear
+ 1512  clear
+ 1513  jasmine tests.js 
+ 1514  clear
+ 1515  jasmine tests.js 
+ 1516  cd spec
+ 1517  jasmine
+ 1518  clear
+ 1519  jasmine tests.js 
+ 1520  clear
+ 1521  jasmine tests.js 
+ 1522  clear
+ 1523  jasmine tests.js 
+ 1524  clear
+ 1525  jasmine tests.js 
+ 1526  clear
+ 1527  jasmine tests.js 
+ 1528  clear
+ 1529  jasmine tests.js 
+ 1530  clear
+ 1531  jasmine tests.js 
+ 1532  clear
+ 1533  jasmine tests.js 
+ 1534  clear
+ 1535  jasmine tests.js 
+ 1536  CLEAR
+ 1537  clear
+ 1538  jasmine tests.js 
+ 1539  clear
+ 1540  jasmine tests.js 
+ 1541  cd spec
+ 1542  jasmine tests.js 
+ 1543  clear
+ 1544  jasmine tests.js 
+ 1545  cd src
+ 1546  node app.js 
+ 1547  node
+ 1548  mkdir spec
+ 1549  jasmine init
+ 1550  mkdir src
+ 1551  npm init
+ 1552  mongo
+ 1553  cd spec
+ 1554  jasmine tests.js 
+ 1555  cdocker-compose up
+ 1556  docker-compose up
+ 1557  mkdir views
+ 1558  cd views
+ 1559  npm i pug --save
+ 1560  cd ..
+ 1561  clear
+ 1562  mkdir src
+ 1563  cd src
+ 1564  cd src8
+ 1565  node 
+ 1566  node app
+ 1567  clear
+ 1568  cd src
+ 1569  node app.js 
+ 1570  clear
+ 1571  node app.js 
+ 1572  node
+ 1573  cd spec
+ 1574  jasmine tests.js 
+ 1575  clear
+ 1576  cd ..
+ 1577  cd src
+ 1578  node app.js 
+ 1579  clear
+ 1580  cd ..
+ 1581  docker-compose up
+ 1582  docker container ls
+ 1583  docker kill be8699382ddc
+ 1584  docker kill 688d3aba0926
+ 1585  docker kill 15ffd2084571
+ 1586  clear
+ 1587  docker container ls
+ 1588  clear
+ 1589  docker-compose up
+ 1590  mkdir views
+ 1591  clear
+ 1592  npm init
+ 1593  npm install --save express jade
+ 1594  npm i pug --save
+ 1595  clear
+ 1596  docker-compose up
+ 1597  cd src
+ 1598  node app.js 
+ 1599  cd spec
+ 1600  jasmine tests.js 
+ 1601  clear
+ 1602  cd ..
+ 1603  clear
+ 1604  cd src
+ 1605  node app.js 
+ 1606  clear
+ 1607  cd ..
+ 1608  npm i pg
+ 1609  npm install --save pg
+ 1610  clear
+ 1611  cd src
+ 1612  node app.js 
+ 1613  cd ..
+ 1614  claer
+ 1615  clear
+ 1616  docker-compose up
+ 1617  docker container ls
+ 1618  docker kill 688d3aba0926
+ 1619  docker kill c50c3d646a35
+ 1620  docker kill 654b1e17dcd7
+ 1621  clear
+ 1622  docker container ls
+ 1623  docker kill 80bbde968bd3
+ 1624  docker kill 9b2996de0ffa
+ 1625  docker container ls
+ 1626  clear
+ 1627  cd src
+ 1628  node app.js 
+ 1629  cd ..
+ 1630  clear
+ 1631  docker-compose up
+ 1632  cd spec
+ 1633  jasmine tests.js 
+ 1634  cd ..
+ 1635  clear
+ 1636  docker-compose up
+ 1637  cd spec
+ 1638  jasmine tests.js 
+ 1639  clear
+ 1640  jasmine tests.js 
+ 1641  cd spec
+ 1642  jasmine tests.js 
+ 1643  cd src
+ 1644  node app.js 
+ 1645  cd spec
+ 1646  jasmine
+ 1647  clear
+ 1648  jasmine stringCalculatorSpec.js 
+ 1649  clear
+ 1650  cd src
+ 1651  jasmine string_calculator.js 
+ 1652  cd ..
+ 1653  cd spec
+ 1654  jasmine stringCalculatorSpec.js 
+ 1655  clear
+ 1656  jasmine stringCalculatorSpec.js 
+ 1657  cd spec
+ 1658  jasmine stringCalculatorSpec.js 
+ 1659  clear
+ 1660  cd spec
+ 1661  jasmine test.js 
+ 1662  cd spec
+ 1663  jasmine stringCalculatorSpec.js 
+ 1664  cd spec
+ 1665  jasmine password_is_valid_spec.js 
+ 1666  clear
+ 1667  jasmine password_is_valid_spec.js 
+ 1668  cd spec
+ 1669  jasmine password_is_valid_spec.js 
+ 1670  clear
+ 1671  jasmine password_is_valid_spec.js 
+ 1672  clear
+ 1673  jasmine password_is_valid_spec.js 
+ 1674  jasmine password_is_ok_spec.js 
+ 1675  clear
+ 1676  cd ..
+ 1677  git branch
+ 1678  git checkout -b password
+ 1679  git add .
+ 1680  git commit "fixed files"
+ 1681  git commit -m  "fixed files"
+ 1682  git push
+ 1683  cd spec
+ 1684  jasmine stringCalculatorSpec.js 
+ 1685  clear
+ 1686  cd spec
+ 1687  jasmine stringCalculatorSpec.js 
+ 1688  cd Desktop/
+ 1689  Thembela-Selani-282-node-sql-assignment-Thembela-Selani-282-node-sql-assignment/
+ 1690  node app.js 
+ 1691  nodemon
+ 1692  node app.js 
+ 1693  node app.js 
+ 1694  npm i body-parser --save
+ 1695  node app.js 
+ 1696  nodemoon
+ 1697  nodemoon app.js 
+ 1698  node app.js 
+ 1699  docker container ls
+ 1700  docker stop 9b2996de0ffa
+ 1701  docker stop 654b1e17dcd7
+ 1702  docker stop 80bbde968bd3
+ 1703  docker stop 688d3aba0926
+ 1704  clear
+ 1705  docker cntainer ls
+ 1706  docker container ls
+ 1707  docker-compose up
+ 1708  cd spec
+ 1709  jasmine stringCalculatorSpec.js 
+ 1710  cd spec
+ 1711  jasmne stringCalculatorSpec.js 
+ 1712  jasmine stringCalculatorSpec.js 
+ 1713  cd spec
+ 1714  jasmine stringCalculatorSpec.js 
+ 1715  clear
+ 1716  cd ..
+ 1717  git branch
+ 1718  git satus
+ 1719  git status
+ 1720  git add .
+ 1721  git commit -m "fixed spec"
+ 1722  git push
+ 1723  clear
+ 1724  cd src
+ 1725  node node_file_io.js 
+ 1726  cd src
+ 1727  node app.js 
+ 1728  npm i dotenv --save
+ 1729  node app.js 
+ 1730  clear
+ 1731  nodemon
+ 1732  npm i nodemon --save
+ 1733  nodemon
+ 1734  grep -i nodemon
+ 1735  rs
+ 1736  npm uninstall nodemon
+ 1737  nodemon
+ 1738  npm uninstall -g nodemon --save
+ 1739  npm uninstall -g <nodemon> --save
+ 1740  clear
+ 1741  nodemon
+ 1742  mkdir spec
+ 1743  jasmine init
+ 1744  mkdir src
+ 1745  mkdir views
+ 1746  cd src
+ 1747  mkdir css
+ 1748  mkdir views
+ 1749  npm init
+ 1750  clear
+ 1751  cd ..
+ 1752  npm i body-parser --save
+ 1753  clear
+ 1754  npm i body-parser --save
+ 1755  npm i pug --save
+ 1756  npm init
+ 1757  npm i pug --save
+ 1758  npm i body-parser --save
+ 1759  npm dotenv --save
+ 1760  npm i  dotenv --save
+ 1761  npm i  pg --save
+ 1762  npm i  express --save
+ 1763  nodemon
+ 1764  cd spec
+ 1765  jasmine app.spec.js 
+ 1766  npm i dotenv --save
+ 1767  npm i express --save
+ 1768  npm i pg --save
+ 1769  npm i pug --save
+ 1770  npm i nodemon --save
+ 1771  mkdir spec
+ 1772  jasmine init
+ 1773  mkdir src
+ 1774  mkdir views
+ 1775  mkdir public
+ 1776  cd public
+ 1777  mkdir css
+ 1778  cd ..
+ 1779  npm init
+ 1780  jasmine init
+ 1781  npm i body-parser --save
+ 1782  nodemon
+ 1783  ps -ef | grep node
+ 1784  cd src
+ 1785  node app.js 
+ 1786  cd src
+ 1787  node app.js 
+ 1788  docker compose up
+ 1789  docker-compose up
+ 1790  git branch
+ 1791  git checkout gitExercises
+ 1792  git merge origin/master
+ 1793  git merge master
+ 1794  git status
+ 1795  git add .
+ 1796  git commit "udating master"
+ 1797  git commit "small changes"
+ 1798  git commit "fixed"
+ 1799  git branch
+ 1800  git init
+ 1801  git add *
+ 1802  git commit -m "created my repo"
+ 1803  git remote add origin https://github.com/thembela1999/gitBasicExercises.git
+ 1804  git push
+ 1805  git push -u origin master
+ 1806  cd src
+ 1807  node password_checker.js 
+ 1808  clear
+ 1809  cd ..
+ 1810  cd spec
+ 1811  jasmine password_is_valid_spec.js 
+ 1812  clear
+ 1813  git branch
+ 1814  git checkout passwordChecker 
+ 1815  git checkout password
+ 1816  cd ..
+ 1817  git checkout passwordChecker 
+ 1818  git checkout password
+ 1819  cd spec
+ 1820  jasmine password_is_valid_spec.js 
+ 1821  cd ..
+ 1822  clear
+ 1823  git branch
+ 1824  git status
+ 1825  git add .
+ 1826  git commit -m "fixed spec"
+ 1827  git push
+ 1828  cd spec
+ 1829  jasmine password_is_ok_spec.js 
+ 1830  clear
+ 1831  cd src
+ 1832  node app.js 
+ 1833  cd ..
+ 1834  docker-compose up
+ 1835  docker container ls
+ 1836  docker kill 10d4423d6803
+ 1837  docker kill 654b1e17dcd7
+ 1838  docker kill 80bbde968bd3
+ 1839  docker kill 688d3aba0926
+ 1840  clear
+ 1841  docker-compose up
+ 1842  cd src
+ 1843  node app.js 
+ 1844  cd src
+ 1845  node app.js 
+ 1846  clear
+ 1847  node app.js 
+ 1848  cd src
+ 1849  node app.js 
+ 1850  cd ..
+ 1851  docker-compose up
+ 1852  cd src
+ 1853  node app.js 
+ 1854  clear
+ 1855  node app.js 
+ 1856  cd src
+ 1857  node app.js 
+ 1858  cd src
+ 1859  node app.js 
+ 1860  clear
+ 1861  node app.js 
+ 1862  cd spec
+ 1863  jasmine tests.js 
+ 1864  clear
+ 1865  jasmine tests.js 
+ 1866  clear
+ 1867  jasmine tests.js 
+ 1868  clear
+ 1869  jasmine tests.js 
+ 1870  clear
+ 1871  jasmine tests.js 
+ 1872  clear
+ 1873  jasmine tests.js 
+ 1874  clear
+ 1875  jasmine tests.js 
+ 1876  clear
+ 1877  jasmine tests.js 
+ 1878  clear
+ 1879  jasmine tests.js 
+ 1880  cd src
+ 1881  node app.js 
+ 1882  cd spec
+ 1883  jasmine tests.js 
+ 1884  clear
+ 1885  jasmine tests.js 
+ 1886  clear
+ 1887  jasmine tests.js 
+ 1888  cd spec
+ 1889  jasmine tests.js 
+ 1890  cd spec
+ 1891  clear
+ 1892  jasmine tests.js 
+ 1893  cd ..
+ 1894  cd src
+ 1895  clear
+ 1896  node app.js 
+ 1897  cd spec
+ 1898  jasmine tests.js 
+ 1899  clear
+ 1900  jasmine tests.js 
+ 1901  clear
+ 1902  jasmine tests.js 
+ 1903  clear
+ 1904  jasmine tests.js 
+ 1905  clear
+ 1906  jasmine tests.js 
+ 1907  clear
+ 1908  jasmine tests.js 
+ 1909  cd spec
+ 1910  jasmine tests.js 
+ 1911  clear
+ 1912  git branch
+ 1913  git add .
+ 1914  git status
+ 1915  git commit -m "fixed tables"
+ 1916  git push
+ 1917  docker-compose up
+ 1918  cd src
+ 1919  node node-file-src.js 
+ 1920  git clone https://github.com/Umuzi-org/Thembela-Selani-280-node-file-io.git
+ 1921  code .
+ 1922  sudo badblocks -v /dev/sda
+ 1923  git clone https://github.com/Umuzi-org/Thembela-Selani-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1924  code .
+ 1925  mkdir src
+ 1926  cd spec
+ 1927  jasmine tests.js 
+ 1928  cd ..
+ 1929  clear
+ 1930  cd src
+ 1931  node app.js 
+ 1932  clear
+ 1933  node app.js 
+ 1934  cd src
+ 1935  node app.js 
+ 1936  cd ..
+ 1937  cd spec
+ 1938  clear
+ 1939  cd ..
+ 1940  cd spec
+ 1941  jasmine tests.js 
+ 1942  cd src
+ 1943  node app.js 
+ 1944  cd ..
+ 1945  docker-compose up
+ 1946  docker container ls
+ 1947  docker kill 9b2996de0ffa
+ 1948  docker kill 654b1e17dcd7
+ 1949  docker kill 80bbde968bd3
+ 1950  clear
+ 1951  docker container ls
+ 1952  docker kill 688d3aba0926
+ 1953  clear
+ 1954  docker-compose up
+ 1955  cd src
+ 1956  node app.js 
+ 1957  git clone https://github.com/Umuzi-org/Thembela-Selani-280-node-file-io.git
+ 1958  git branch
+ 1959  cd src
+ 1960  node node_file_src.js 
+ 1961  cd ..
+ 1962  git branch
+ 1963  git init
+ 1964  git branch
+ 1965  git add .
+ 1966  git branch
+ 1967  git status
+ 1968  git commit -m "changed files"
+ 1969  git branch
+ 1970  cd src
+ 1971  node github_APIs.js 
+ 1972  cd src
+ 1973  node github_APIs.js 
+ 1974  cd src
+ 1975  node github_APIs.js 
+ 1976  clear
+ 1977  node github_APIs.js 
+ 1978  clear
+ 1979  node github_APIs.js 
+ 1980  cd src
+ 1981  node github_APIs.js 
+ 1982  cd src
+ 1983  node github_APIs.js 
+ 1984  clear
+ 1985  node github_APIs.js 
+ 1986  clear
+ 1987  node github_APIs.js 
+ 1988  npm i axios
+ 1989  npm i axios --save
+ 1990  cd src
+ 1991  node github_APIs.js 
+ 1992  cd Desktop/
+ 1993  cd Thembela-Selani-282-node-sql-assignment-Thembela-Selani-282-node-sql-assignment/
+ 1994  docker-compose up
+ 1995  git-basic-exercises
+ 1996  mkdir git-basic-exercises
+ 1997  cd git-basic-exercises/
+ 1998  ls -a
+ 1999  git init
+ 2000  ls -a
+ 2001  git status
+ 2002  touch README.md
+ 2003  ls -a
+ 2004  git status
+ 2005  git log
+ 2006  git add *
+ 2007  git status
+ 2008  git reset -- README
+ 2009  git status
+ 2010  git rm --README.md"
+ 2011  git status
+ 2012  "git rm --README.md"
+ 2013  git rm --README.md
+ 2014  git status
+ 2015  git rm --cached README.md" 
+git status
+ 2016  git status
+ 2017  git rm --cached README.md
+ 2018  git status
+ 2019  git add *
+ 2020  git status
+ 2021  git commit -m "initial commit"
+ 2022  git log
+ 2023  q
+ 2024  nano README.md
+ 2025  cat README.md
+ 2026  git status
+ 2027  git commit -m "second commit"
+ 2028  git add .
+ 2029  git commit -m "second commit"
+ 2030  nano README.md
+ 2031  cat README.md
+ 2032  git commit -m "third commit"
+ 2033  git add .
+ 2034  git commit -m "third commit"
+ 2035  git log
+ 2036  q
+ 2037  git checkout e91ab0b9adee2c0f361b85428f80fcbbee99cd78
+ 2038  cat README.md
+ 2039  git checkout master
+ 2040  cat README.md
+ 2041  git branch
+ 2042  git checkout milkshake-flavours
+ 2043  git checkout -b milkshake-flavours
+ 2044  git branch
+ 2045  git checkout
+ 2046  git branch
+ 2047  git checkout master
+ 2048  git checkout milkshake-flavours 
+ 2049  nano milkshake.md
+ 2050  git status
+ 2051  git add .
+ 2052  git commit -m "added initial flavours"
+ 2053  git log
+ 2054  git branch
+ 2055  git checkout master
+ 2056  git status
+ 2057  git branch
+ 2058  git checkout -b history
+ 2059  git log
+ 2060  git branch
+ 2061  history > history.txt
